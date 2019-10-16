@@ -6,5 +6,5 @@ This project has three features:
 
 ## 2. Second feature is fantastic
 
-## 3. Third feature
+## 3. Third feature is the best
 
